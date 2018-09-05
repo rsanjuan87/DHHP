@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/introdce_el_valor_de_la_luz"/>-->
+        <!--<EditText-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:hint="@string/introdce_el_valor_de_la_luz"-->
+            <!--android:id="@+id/zoomIn"-->
+            <!--android:ems="10"-->
+            <!--android:inputType="numberDecimal"/>-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/espesor_de_la_losa"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/espesor_de_la_losa"
+            android:id="@+id/esperor_losa"
+            android:ems="10"
+            android:inputType="numberDecimal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/espesor_de_la_viga"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/espesor_de_la_viga"
+            android:id="@+id/esperor_viga"
+            android:ems="10"
+            android:inputType="numberDecimal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/espesor_del_pavimento"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/espesor_del_pavimento"
+            android:id="@+id/esperor_pavimento"
+            android:ems="10"
+            android:inputType="numberDecimal"/>
+    </LinearLayout>

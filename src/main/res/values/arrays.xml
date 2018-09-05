@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Autopista</item>
+        <item>I - II</item>
+        <item>III - IV</item>
+    </string-array>
+    <string-array name="corregir">
+        <item>Aumentar nivel de crecida de diseño con:</item>
+        <item>Diminuir nivel de crecida de diseño con:</item>
+    </string-array>
+</resources>

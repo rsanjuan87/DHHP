@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">DHHP</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tiempo_de_concentraci_n_1s">Tiempo de Concentración: %1$s mm/min \n Altura de precipitaciones (Hp): %2$s</string>
+    <string name="seccion_Rec_Tri">ID: %1$s Forma: %2$s Rugosidad: %3$s Profundidad: %4$s Ancho de la sección %5$s</string>
+    <string name="seccion_Trap">ID: %1$s Forma: %2$s Rugosidad: %3$s Profundidad1: %4$s Profundidad2: %5$s Ancho de la sección %6$s</string>
+    <string name="err_fill_data_first">Debes llenar todos los campos</string>
+    <string name="err_number_format">Formato de número no válido</string>
+    <string name="rea_de_la_cuenca_km_2">Área de la cuenca (Km²) :</string>
+    <string name="longitud_del_r_o_m">Longitud del río (m) :</string>
+    <string name="pendiente_m_m">Pendiente (m/m) :</string>
+    <string name="intensidad_mm_min">Intensidad (mm/min) :</string>
+    <string name="determinar">Determinar</string>
+    <string name="coeficiente">Coeficiente</string>
+    <string name="hp_mm">Altura de precipitaciones [Hp] (mm) :</string>
+    <string name="factor_seg_n_la_probabilidad_de_dise_o">Categoría:  :</string>
+    <string name="nivel_de_crecida_de_dise_o">Nivel de crecida de diseño :</string>
+    <string name="rugosidad">Rugosidad</string>
+    <string name="profundidad_anterior_0_0_m">Profundidad izquierda(m)</string>
+    <string name="seccion_num">Sección %1$d de %2$d</string>
+    <string name="profindidad_m">Profundidad derecha(m)</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="listo">Listo</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="ancho_de_la_secci_n_m">Ancho de la sección (m)</string>
+    <string name="caudal_de_dise_o_1_0_f">Caudal de diseño: %1$s m³/s, rango :[%2$s ; %3$s]</string>
+    <string name="no_se_cumple_la_condici_n_de_parada">No se cumple la condición de parada</string>
+    <string name="se_cumple_la_condici_n_de_parada">Se cumple la condición de parada</string>
+    <string name="err_section_out">Indique solo secciones que estén en el diseño</string>
+    <string name="selct_cauce_princi">Debe seleccionar antes las secciones que componen el cauce principal</string>
+    <string name="cantidad_de_secciones_del_dise_o">Cantidad de secciones del diseño</string>
+    <string name="corregir">Corregir</string>
+    <string name="ancho_de_la_primera_seccion">Corregir ancho de la primera sección (m)</string>
+    <string name="ancho_de_la_ultima_secci_n">Corregir ancho de la última sección (m)</string>
+    <string name="correccion_disenno_title">Corrección del diseño</string>
+    <string name="ancho_actual_1_s_m">Ancho actual %1$s m</string>
+    <string name="seleccione_cauce_principal">Seleccione cauce principal</string>
+    <string name="ej_1_s_m_2_s_m">Ej.: %1$s m + %2$s m</string>
+    <string name="err_sections_faltan">Inserte todas las secciones antes de continuar</string>
+    <string name="seleccione_ubicaci_n_de_los_estribos">Seleccione secciones entre los estribos</string>
+    <string name="introdce_el_valor_de_la_luz">Valor de la luz entre estribos(m)</string>
+    <string name="err_area_">El área de la cuenca no debe exceder los 30km²</string>
+    <string name="insertar">Insertar</string>
+    <string name="intro_data">Introduce los datos necesarios</string>
+    <string name="espesor_de_la_losa">Espesor de la losa (m) :</string>
+    <string name="espesor_de_la_viga">Altura de la viga (m) :</string>
+    <string name="espesor_del_pavimento">Espesor del pavimento (m) :</string>
+    <string name="remanso_data">\n
+        Nivel de rasante mínima: %1$s m\n
+        Nivel máximo de remanso: %2$s m\n
+        Altura libre vertical: %3$s m\n
+        Altura del remanso: %4$s m\n
+        Altura del tablero: %5$s m\n
+    </string>
+    <string name="longitud_del_puente_1_s_suma_de_las_luces_parciales_2_s">Longitud del puente %1$s \nSuma de las luces parciales %2$s</string>
+    <string name="insert_cant_luces_part">Inserte cantidad de luces parciales para %1$s m</string>
+    <string name="insert_long_part">Inserte longitud de la luz parcial (m) %1$d</string>
+    <string name="err_dimes_not_equals">Las dimensiones de las longitudes no coinciden</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="prev">Anterior</string>
+    <string name="sections">Secciones :</string>
+    <string name="credits">\n
+         Autor: Andrés de Jesús Morales \n
+        Tutor: M.Sc. Fátima Martínez Hernández \n
+        Programador: Reynaldo San Juan Acosta
+    </string>
+    <string name="title">Tesis:  Diseño Hidrológico e Hidráulico de Puentes</string>
+    <string name="title_activity_save_acty">SaveActy</string>
+    <string name="nombre_del_proyecto">Nombre del proyecto : </string>
+    <string name="zona_de_emplazamiento">Zona de emplazamiento : </string>
+    <string name="observaciones">Observaciones : </string>
+    <string name="gasto_acumulado">Gasto acumulado :</string>
+    <string name="area_acumulada">Area acumulada :</string>
+    <string name="prof_max">Profundidad máxima :</string>
+    <string name="gasto_cause_principal">Gasto cauce principal :</string>
+    <string name="section">Seccion #%1$s</string>
+    <string name="estribos">Estribos: %1$s y %2$s</string>
+    <string name="area_estri">Area entre estribos :</string>
+    <string name="miu">Miu :</string>
+    <string name="longitud">Longitud entre estribos :</string>
+    <string name="guardar_datos">Guardar datos</string>
+    <string name="err_nivel_">La profundidad inicial de la sección no admite tal modificación\n Debe rediseñar las secciones</string>
+
+</resources>
